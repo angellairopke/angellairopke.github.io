@@ -1,6 +1,12 @@
 # angellairopke.github.io
 angella's wdbsite.
 
+# TODO
+
+- [x] Study Markdown
+- [ ] make _index.html
+
+
 ```html
 <h1>heading 1</h1>
 <h2>heading 2</h2>
