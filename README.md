@@ -10,9 +10,29 @@ angella's wdbsite.
 <h6>heading 6</h6>
 ```
 
-# Mardown H1
-## Mardown H2
-### Mardown H3
-#### Mardown H4
-##### Mardown H5
-###### Mardown H6
+# Markdown H1
+## Markdown H2
+### Markdown H3
+#### Markdown H4
+##### Markdown H5
+###### Markdown H6
+
+### 목록
+
+```html
+<ul>
+	<li>item1</li>
+	<li>item2</li>
+	<li>item3</li>
+</ul>
+
+<ol>
+	<li>item1</li>
+	<li>item2</li>
+	<li>item3</li>
+</ol>
+```
+
+1. item1
+1. item2
+1. item3
