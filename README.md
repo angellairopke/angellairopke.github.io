@@ -56,7 +56,9 @@ angella's wdbsite.
 
 ### 이미지
 ```html
-<img src="http://i.imgur.com/sYZwgZ2.jpg">
+<img src="http://i.imgur.com/sYZwgZ2.jpg" alt="lirakcuma">
 ```
+
+<img src="http://i.imgur.com/sYZwgZ2.jpg" alt="lirakcuma" width="420" height="213.5">
 
 ![lirakcuma](http://i.imgur.com/sYZwgZ2.jpg)
