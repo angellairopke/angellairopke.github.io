@@ -4,7 +4,7 @@ angella's wdbsite.
 # TODO
 
 - [x] Study Markdown
-- [ ] make _index.html
+- [ ] make `index.html`
 
 
 ```html
