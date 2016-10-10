@@ -72,3 +72,11 @@ angella's wdbsite.
 - [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archives/3994)
 - [마츠다 세이코 푸른산호초](https://www.youtube.com/watch?v=kA9vtUyiTsU)
 - [심쿵주의! 뷰티업계, 귀여움 가득한 캐릭터와 만나다](http://isplus.live.joins.com/news/article/article.asp?total_id=20231482&cloc=)
+
+
+### 인용 구문
+
+HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조화한다.
+
+> "design is all."<br>
+> "인용이 안되는 군요"
