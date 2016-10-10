@@ -61,4 +61,6 @@ angella's wdbsite.
 
 <img src="http://i.imgur.com/sYZwgZ2.jpg" alt="lirakcuma" width="420" height="213.5">
 
-![lirakcuma](http://i.imgur.com/sYZwgZ2.jpg)
+![lirakcuma](assets/lirakcuma.jpg "lirakcuma")
+
+###
