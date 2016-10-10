@@ -52,3 +52,11 @@ angella's wdbsite.
 1. item1
 1. item2
 1. item3
+
+
+### 이미지
+```html
+<img src="http://i.imgur.com/sYZwgZ2.jpg">
+```
+
+![lirakcuma](http://i.imgur.com/sYZwgZ2.jpg)
