@@ -1,0 +1,71 @@
+/*! arbuzz.css © yamoo9.net, 2016 */
+.box {
+  background: hsla(0, 0%, 20%, 0.45);
+  color: #fff;
+  text-align: right;
+}
+
+.p1 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 190px;
+  letter-spacing: 0.08em;
+  left: 100px;
+  font-weight: 900;
+}
+
+.p2 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 20px;
+  letter-spacing: 0.08em;
+  left: 350px;
+  font-weight: 900;
+}
+
+.p3 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 400px;
+  letter-spacing: 0.08em;
+  left: 350px;
+  font-weight: 900;
+}
+
+
+.p4 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 250px;
+  letter-spacing: 0.08em;
+  left: 700px;
+  font-weight: 900;
+}
+
+
+
+.dress {
+  height: 320px;
+  line-height: 410px;
+}
+
+.v-space {
+  margin-bottom: 20px;
+}
+.v-space-top {
+  margin-top: 20px;
+}
+
+.product {
+  height: 300px;
+  line-height: 300px;
+}
+
+.hx2 {
+  height: 620px;
+  line-height: 620px;
+}
